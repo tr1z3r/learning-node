@@ -1,0 +1,1 @@
+/// there was some simple js code here it was just an if statement im too lazy to type it out
