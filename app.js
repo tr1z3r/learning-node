@@ -1,4 +1,4 @@
-// npm - blobal command, comes with node
+// npm - global command, comes with node
 // npm --version
 
 // local dependency - use it only in this particular project
@@ -16,7 +16,9 @@
 
 const _ = require('lodash')
 
-const items = [1, [2, [3, [4,]]]]
+const items = [1, [2, [3, [4]]]]
 const newItems = _.flattenDeep(items)
 console.log(newItems)
-console.log(items)
+console.log('Hello people')
+
+// left off at 2:27:40
