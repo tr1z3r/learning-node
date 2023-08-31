@@ -21,4 +21,3 @@ const newItems = _.flattenDeep(items)
 console.log(newItems)
 console.log('Hello people')
 
-// left off at 2:27:40
