@@ -6,7 +6,7 @@
 
 // global dependency - use it in any project 
 // npm install -g <pakageName>
-// sudo npm install -g <pakageName> (mac)
+// sudo npm install -g <pakageName> (for mac)
 
 // pakage.json - manifest file (stores important info about project/pakage)
 // manual approach (create pakage.json in the root, create properties etc)
